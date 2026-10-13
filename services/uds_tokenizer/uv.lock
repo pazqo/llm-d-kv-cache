@@ -1196,10 +1196,10 @@ wheels = [
 
 [[package]]
 name = "pyjwt"
-version = "2.13.0"
+version = "2.14.0"
 source = { registry = "https://packages.redhat.com/api/pypi/public-rhai/rhoai/3.4/cpu-ubi9/simple/" }
 wheels = [
-    { url = "https://packages.redhat.com/api/pulp-content/public-rhai/rhoai/3.4/cpu-ubi9/pyjwt-2.13.0-2-py3-none-any.whl", hash = "sha256:43798d73ce4c0a7221087b220935ade361955eeada0b3b4f8622f9b53916ea1c", size = 42117, upload-time = "2026-06-12T14:16:31.048Z" },
+    { url = "https://packages.redhat.com/api/pulp-content/public-rhai/rhoai/3.4/cpu-ubi9/pyjwt-2.14.0-2-py3-none-any.whl", hash = "sha256:63cdf2df97cc8adf03bab99b3fa29d1df2d307ad216c6a5cdf509b322fd693e9", size = 33784, upload-time = "2026-10-07T17:24:26.547Z" },
 ]
 
 [package.optional-dependencies]
